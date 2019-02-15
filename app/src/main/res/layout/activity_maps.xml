@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.jiheepyo.uxd.MapsActivity"
+    android:background="#8aa7dc">
+
+    <fragment
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name="com.google.android.gms.maps.MapFragment">
+        <!--리스트 펼치기-->
+        <ToggleButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="left|top"
+            android:padding="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:paddingRight="10dp"
+            android:id="@+id/toggleList"
+            android:background="@drawable/toggle1"
+            android:text=""
+            android:textOn=""
+            android:textOff=""/>
+        <!--금연구역-->
+        <ToggleButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="left|top"
+            android:padding="10dp"
+            android:layout_marginTop="70dp"
+            android:layout_marginLeft="10dp"
+            android:paddingRight="10dp"
+            android:id="@+id/toggleNonSmoke"
+            android:background="@drawable/toggle2"
+            android:checked="true"
+            android:text=""
+            android:textOn=""
+            android:textOff=""/>
+        <!--체크박스-->
+        <Button
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="left|top"
+            android:padding="10dp"
+            android:layout_marginTop="130dp"
+            android:layout_marginLeft="10dp"
+            android:paddingRight="10dp"
+            android:id="@+id/btnCheck"
+            android:background="@drawable/toggle3"/>
+
+    </fragment>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="350dp"
+        android:background="#ddddff"
+        android:id="@+id/listLayout"
+        android:orientation="vertical">
+        <TextView
+            android:layout_height="20dp"
+            android:layout_width="match_parent"
+            android:textSize="15sp"
+            android:layout_margin="3sp"
+            android:textColor="#000000"
+            android:text="- 가까운 흡연구역 목록 -"
+            />
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="3dp"
+            android:id="@+id/spotList"
+            android:background="#ffffff">
+
+        </ListView>
+    </LinearLayout>
+
+    <!--Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </Spinner-->
+
+</RelativeLayout>
+
+

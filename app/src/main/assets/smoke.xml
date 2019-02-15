@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <smoke>
+        <!--- 0. 흡연부스 -->
+
+        <smokearea>
+            <type>0</type>
+            <name>건대입구 2호</name>
+            <latitude>37.540162</latitude>
+            <longitude>127.070502</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>0</type>
+            <name>동서울터미널</name>
+            <latitude>37.534374</latitude>
+            <longitude>127.094047</longitude>
+        </smokearea>
+
+        <!--- 1. PC방 -->
+        <!--- 1~10 -->
+        <smokearea>
+            <type>1</type>
+            <name>세종대-라이온 PC방</name>
+            <latitude>37.548162</latitude>
+            <longitude>127.072012</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>3POP PC방</name>
+            <latitude>37.540781</latitude>
+            <longitude>127.069048</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>5번 출구 pc방</name>
+            <latitude>37.539716</latitude>
+            <longitude>127.070247</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>누리터 PC방</name>
+            <latitude>37.558765</latitude>
+            <longitude>127.088011</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>제우스PC방</name>
+            <latitude>37.540515</latitude>
+            <longitude>127.068095</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>윈플러스PC방</name>
+            <latitude>37.540440</latitude>
+            <longitude>127.094268</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>와우 PC방</name>
+            <latitude>37.536429</latitude>
+            <longitude>127.070227</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>sky PC방</name>
+            <latitude>37.534567</latitude>
+            <longitude>127.091331</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>인터칸 PC방</name>
+            <latitude>37.551452</latitude>
+            <longitude>127.091812</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>고릴라PC방 중곡동점</name>
+            <latitude>37.570119</latitude>
+            <longitude>127.083452</longitude>
+        </smokearea>
+
+        <!--- 11~20 -->
+        <smokearea>
+            <type>1</type>
+            <name>팝콘PC방</name>
+            <latitude>37.542780</latitude>
+            <longitude>127.068957</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>엑스칼리버피시방 화양점</name>
+            <latitude>37.541489</latitude>
+            <longitude>127.071143</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>엔탑피시방</name>
+            <latitude>37.534147</latitude>
+            <longitude>127.084151</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>누리터 PC방</name>
+            <latitude>37.558765</latitude>
+            <longitude>127.088011</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>PC방몰</name>
+            <latitude>37.534198</latitude>
+            <longitude>127.084114</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>유니넷 모진점</name>
+            <latitude>37.546346</latitude>
+            <longitude>127.075753</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>인디고PC and CAFE</name>
+            <latitude>37.533217</latitude>
+            <longitude>127.091823</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>바닐라PC</name>
+            <latitude>37.553748</latitude>
+            <longitude>127.093611</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>애니락PC방</name>
+            <latitude>37.562508</latitude>
+            <longitude>127.082698</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>대박피시방 화양점</name>
+            <latitude>37.546939</latitude>
+            <longitude>127.072544</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>1</type>
+            <name>다물피시클럽 자양점</name>
+            <latitude>37.529512</latitude>
+            <longitude>127.083920</longitude>
+        </smokearea>
+
+        <!--- 21~30 -->
+
+        <smokearea>
+            <type>1</type>
+            <name>당근피시방 자양점</name>
+            <latitude>37.529246</latitude>
+            <longitude>127.082838</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>크림슨PC</name>
+            <latitude>37.533867</latitude>
+            <longitude>127.077652</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>국민PC방</name>
+            <latitude>37.536870</latitude>
+            <longitude>127.061795</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>아리아PC방</name>
+            <latitude>37.558748</latitude>
+            <longitude>127.087478</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>한솔피시방 화양점</name>
+            <latitude>37.543074</latitude>
+            <longitude>127.068503</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>늑대와여우피씨방 구의점</name>
+            <latitude>37.547737</latitude>
+            <longitude>127.087971</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>아이엔지피시방 노유점</name>
+            <latitude>37.538855</latitude>
+            <longitude>127.067411</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>루나PC</name>
+            <latitude>37.545317</latitude>
+            <longitude>127.076757</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>미스테립</name>
+            <latitude>37.538704</latitude>
+            <longitude>127.075425</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>쇼콜라 피씨방</name>
+            <latitude>37.539138</latitude>
+            <longitude>127.084744</longitude>
+        </smokearea>
+
+
+        <!--- 31~40 -->
+
+        <smokearea>
+            <type>1</type>
+            <name>아베크</name>
+            <latitude>37.555595</latitude>
+            <longitude>127.081568</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>코알라PC방</name>
+            <latitude>37.537807</latitude>
+            <longitude>127.066077</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>제이앤넷</name>
+            <latitude>37.537159</latitude>
+            <longitude>127.065701</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>사이버파크 건대점</name>
+            <latitude>37.538861</latitude>
+            <longitude>127.067422</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>nTop</name>
+            <latitude>37.547637</latitude>
+            <longitude>127.070799</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>중곡PC</name>
+            <latitude>37.559526</latitude>
+            <longitude>127.086949</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>토리넷PC방</name>
+            <latitude>37.529950</latitude>
+            <longitude>127.080290</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>바두기PC나라</name>
+            <latitude>37.561655</latitude>
+            <longitude>127.083882</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>오클 피시방</name>
+            <latitude>37.558387</latitude>
+            <longitude>127.078725</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>테라칸피시방 노유점</name>
+            <latitude>37.539341</latitude>
+            <longitude>127.065032</longitude>
+        </smokearea>
+
+        <!--- 41~50 -->
+
+        <smokearea>
+            <type>1</type>
+            <name>허브PC방 화양점</name>
+            <latitude>37.545510</latitude>
+            <longitude>127.068668</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>오즈피시방</name>
+            <latitude>37.556416</latitude>
+            <longitude>127.079438</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>7데이즈pc방</name>
+            <latitude>37.538018</latitude>
+            <longitude>127.066594</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>누리터피시 방중곡점</name>
+            <latitude>37.558772</latitude>
+            <longitude>127.088084</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>컴네트피시방</name>
+            <latitude>37.548389</latitude>
+            <longitude>127.068957</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>견우와직녀</name>
+            <latitude>37.537955</latitude>
+            <longitude>127.085382</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>네오젠 군자점</name>
+            <latitude>37.548466</latitude>
+            <longitude>127.067918</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>싸이월드피씨방 중곡점</name>
+            <latitude>37.557572</latitude>
+            <longitude>127.088116</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>컴앤컴</name>
+            <latitude>37.560678</latitude>
+            <longitude>127.082665</longitude>
+        </smokearea>
+
+
+        <smokearea>
+            <type>1</type>
+            <name>유비쿼터스PC방</name>
+            <latitude>37.547423</latitude>
+            <longitude>127.072091</longitude>
+        </smokearea>
+
+        <!--- 2. 카페 -->
+        <!--- 1~10 -->
+        <smokearea>
+            <type>2</type>
+            <name>블라인드레스토랑</name>
+            <latitude>37.543685</latitude>
+            <longitude>127.072254</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>2</type>
+            <name>cafe wee</name>
+            <latitude>37.543416</latitude>
+            <longitude>127.072013</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>2</type>
+            <name>탐앤탐스 건대탐스커버리점</name>
+            <latitude>37.540192</latitude>
+            <longitude>127.069194</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>2</type>
+            <name>이디야커피 건대로데오점</name>
+            <latitude>37.547134</latitude>
+            <longitude>127.066880</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>2</type>
+            <name>coffetah （커피야)</name>
+            <latitude>37.540971</latitude>
+            <longitude>127.088073</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>2</type>
+            <name>건대커피랩</name>
+            <latitude>37.542631</latitude>
+            <longitude>127.068877</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>2</type>
+            <name>Cafe k375</name>
+            <latitude>37.543127</latitude>
+            <longitude>127.071176</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>2</type>
+            <name>투썸플레이스어린이대공원역점</name>
+            <latitude>37.547357</latitude>
+            <longitude>127.072704</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>2</type>
+            <name>Cafe in holic</name>
+            <latitude>37.542997</latitude>
+            <longitude>127.070185</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>2</type>
+            <name>인디고플레이스</name>
+            <latitude>37.544540</latitude>
+            <longitude>127.073074</longitude>
+        </smokearea>
+
+
+
+        <!--- 11~20 -->
+
+        <smokearea>
+            <type>2</type>
+            <name>건대 커피마켓</name>
+            <latitude>37.542841</latitude>
+            <longitude>127.071103</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>2</type>
+            <name>카페201</name>
+            <latitude>37.544296</latitude>
+            <longitude>127.072406</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>2</type>
+            <name>엘가커피 건대점</name>
+            <latitude>37.542614</latitude>
+            <longitude>127.071019</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>2</type>
+            <name>중곡동 coffian</name>
+            <latitude>37.556261</latitude>
+            <longitude>127.091040</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>2</type>
+            <name>투고커피박스</name>
+            <latitude>37.538475</latitude>
+            <longitude>127.076497</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>2</type>
+            <name>카페22</name>
+            <latitude>37.543232</latitude>
+            <longitude>127.070473</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>2</type>
+            <name>탐앤탐스커피 강변점</name>
+            <latitude>37.535465</latitude>
+            <longitude>127.093775</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>2</type>
+            <name>파스쿠찌건대점</name>
+            <latitude>37.540868</latitude>
+            <longitude>127.067934</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>2</type>
+            <name>엘가커피 건대점</name>
+            <latitude>37.540868</latitude>
+            <longitude>127.067934</longitude>
+        </smokearea>
+        <smokearea>
+            <type>3</type>
+            <name>상허도서관 옆</name>
+            <latitude>37.541970</latitude>
+            <longitude>127.074411</longitude>
+        </smokearea>
+
+        <smokearea>
+            <type>3</type>
+            <name>건대입구역1번출구 근처</name>
+            <latitude>37.540940</latitude>
+            <longitude>127.068667</longitude>
+        </smokearea>
+        <smokearea>
+            <type>3</type>
+            <name>건대입구역2번출구 근처</name>
+            <latitude>37.540292</latitude>
+            <longitude>127.070299</longitude>
+        </smokearea>
+        <smokearea>
+            <type>3</type>
+            <name>건대병원 옆</name>
+            <latitude>37.539960</latitude>
+            <longitude>127.071608</longitude>
+        </smokearea>
+    </smoke>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:background="#ffffff">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:gravity="end"
+        android:background="@color/colorPrimaryDark">
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_margin="0dp"
+            android:id="@+id/exitBtn"
+            android:background="@drawable/exit"
+            android:onClick="btnClick"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center">
+
+            <LinearLayout
+                android:layout_marginLeft="20dp"
+                android:layout_width="110dp"
+                android:layout_height="wrap_content">
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/ch_booth"
+                    android:onClick="clickCheckbox"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="흡연부스"
+                    android:textSize="15sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/ch_pc"
+                    android:onClick="clickCheckbox"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="pc방"
+                    android:textSize="15sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_marginLeft="20dp"
+                android:layout_width="110dp"
+                android:layout_height="wrap_content">
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/ch_cafe"
+                    android:onClick="clickCheckbox"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="카페"
+                    android:textSize="15sp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <CheckBox
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:id="@+id/ch_none"
+                    android:onClick="clickCheckbox"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="인기 실외장소"
+                    android:textSize="15sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="30dp">
+        <Button
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:id="@+id/okBtn"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="40dp"
+            android:background="@drawable/okbtn"
+            android:text="적용"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:onClick="btnClick"/>
+        <Button
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:id="@+id/cancelBtn"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="20dp"
+            android:text="취소"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:onClick="btnClick"/>
+    </LinearLayout>
+
+</LinearLayout>
